@@ -1,0 +1,2 @@
+d1 ={"harry":"burger","ankur":"lolipop"}
+print(d1)
